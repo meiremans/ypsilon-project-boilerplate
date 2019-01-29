@@ -1,0 +1,7 @@
+{
+  "name": "ypsilon-project-boilerplate",
+  "version": "1.0.0",
+  "dependencies": {
+    "ypsilon": "0.0.1"
+  }
+}
